@@ -1,0 +1,10 @@
+#+title: A Survey of AI/ML in Finance
+#+author: Matt Brigida, Ph.D.
+#+email: matthew.brigida@sunypoly.edu
+#+PROPERTY: header-args :eval no
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
+
+* General Adversarial Networks
+
+
